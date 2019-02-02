@@ -1,0 +1,38 @@
+{
+  "name": "js-lib-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to create js libs",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "lint": "eslint .",
+    "test": "jest",
+    "test-coverage": "jest --coverage --coverageReporters=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felippemauricio/js-lib-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "javascript",
+    "lib"
+  ],
+  "author": "felippemauricio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felippemauricio/js-lib-boilerplate/issues"
+  },
+  "homepage": "https://github.com/felippemauricio/js-lib-boilerplate#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-jest": "^24.0.0",
+    "coveralls": "^3.0.2",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.0.0"
+  }
+}

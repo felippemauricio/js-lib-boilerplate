@@ -1,0 +1,26 @@
+language: node_js
+
+cache:
+  yarn: true
+
+stages:
+  - lint
+  - test
+
+jobs:
+  include:
+
+    - stage: lint
+      script:
+        - yarn run lint
+
+    - stage: test
+      script:
+        - yarn test
+      if: branch != master
+
+    - stage: test
+      script:
+        - yarn run test-coverage
+      if: branch = master
+

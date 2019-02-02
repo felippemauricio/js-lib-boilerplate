@@ -1,5 +1,5 @@
 # Js Lib Boilerplate
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/felippemauricio/js-lib-boilerplate/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/felippemauricio/js-lib-boilerplate/blob/master/LICENSE.md)
 [![Build Status](https://travis-ci.org/felippemauricio/js-lib-boilerplate.svg?branch=master)](https://travis-ci.org/felippemauricio/js-lib-boilerplate)
 [![devDependencies Status](https://david-dm.org/felippemauricio/js-lib-boilerplate/dev-status.svg)](https://david-dm.org/felippemauricio/js-lib-boilerplate?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/felippemauricio/js-lib-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/felippemauricio/js-lib-boilerplate?branch=master)

@@ -8,14 +8,18 @@
 
 A boilerplate to create js libs and publish on npm.
 
+## Motivation
+
+When I started to create libs to facilitate my job, I noticed that many settings were repeated, like transpilers, tests, files to ignore... So I created this project to don\`t repeat this confs on new libs and facilitate the work of new developers.
+
 ## Usage
 
 To use this boilerplate, simply follow the following steps:
 
 1. Clone this repository;
 2. Rename the name of project, like:
-  1. name on `package.json`;
-  2. badges on `README.md`;
+    1. name on `package.json`;
+    2. badges on `README.md`;
 3. Write your code on `src`;
 4. Write your tests on `tests`;
 
@@ -27,3 +31,12 @@ To use this boilerplate, simply follow the following steps:
 - Gitignore
 - Npmignore
 - Travis
+
+## Public Projects created with this boilerplate
+
+- [promise-fn-retry](https://github.com/felippemauricio/promise-fn-retry)
+- [styled-modifiers](https://github.com/felippemauricio/styled-modifiers)
+
+## License
+
+Licensed under the MIT License, Copyright © 2019-present Felippe Maurício.

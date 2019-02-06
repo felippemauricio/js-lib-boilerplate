@@ -35,7 +35,6 @@ To use this boilerplate, simply follow the following steps:
 ## Public Projects created with this boilerplate
 
 - [promise-fn-retry](https://github.com/felippemauricio/promise-fn-retry)
-- [styled-modifiers](https://github.com/felippemauricio/styled-modifiers)
 
 ## License
 

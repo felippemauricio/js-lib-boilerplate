@@ -5,9 +5,9 @@
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
-    "ci:test": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",

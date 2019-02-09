@@ -1,6 +1,6 @@
 {
   "name": "js-lib-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple boilerplate to create js libs",
   "main": "lib/index.js",
   "scripts": {

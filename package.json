@@ -5,9 +5,9 @@
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
+    "ci:test": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "lint": "eslint .",
-    "test": "jest",
-    "test:ci": "jest --coverage --coverageReporters=text-lcov | coveralls"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "keywords": [
     "boilerplate",
     "javascript",
-    "lib"
+    "library"
   ],
   "author": {
     "name": "Felippe Maurício",
@@ -39,5 +39,8 @@
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0",
     "jest": "^24.1.0"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }

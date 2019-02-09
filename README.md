@@ -25,12 +25,10 @@ To use this boilerplate, simply follow the following steps:
 
 ## Confs in this project
 
-- Babel Transpiler
-- Editor Config
+- Transpiler with Babel
+- Editor Config to IDEs
 - Lint
-- Gitignore
-- Npmignore
-- Travis
+- Tests with Jest
 
 ## Public Projects created with this boilerplate
 

@@ -16,10 +16,8 @@ When I started to create libs to facilitate my job, I noticed that many settings
 
 To use this boilerplate, simply follow the following steps:
 
-1. Clone this repository;
-2. Rename the name of project, like:
-    1. name on `package.json`;
-    2. badges on `README.md`;
+1. Clone this repository.
+2. Run the [script-name-replace](https://github.com/felippemauricio/js-lib-boilerplate/blob/master/docs/script-name-replace.md) to change project name.
 3. Write your code on `src`;
 4. Write your tests on `tests`;
 

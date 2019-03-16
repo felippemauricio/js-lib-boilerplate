@@ -4,6 +4,7 @@
 [![devDependencies Status](https://david-dm.org/felippemauricio/js-lib-boilerplate/dev-status.svg)](https://david-dm.org/felippemauricio/js-lib-boilerplate?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/felippemauricio/js-lib-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/felippemauricio/js-lib-boilerplate?branch=master)
 [![Code Style](https://badgen.net/badge/code%20style/airbnb/fd5c63)](https://github.com/airbnb/javascript)
+[![Tested with Jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/felippemauricio/js-lib-boilerplate/pulls)
 
 A boilerplate to create js libs and publish on npm.

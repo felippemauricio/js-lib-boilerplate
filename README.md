@@ -32,6 +32,7 @@ To use this boilerplate, simply follow the following steps:
 ## Public Projects created with this boilerplate
 
 - [promise-fn-retry](https://github.com/felippemauricio/promise-fn-retry)
+- [string-interpolation-parser](https://github.com/felippemauricio/string-interpolation-parser)
 
 ## License
 
